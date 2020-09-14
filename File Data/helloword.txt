@@ -1,0 +1,4 @@
+Việc xử lý file là công việc rất quan trọng, đặc biệt trong data science và machine learning. Dưới đây là một số kĩ thuật xử lí file thông thường.
+
+Đọc File
+Để thao tác một file trong python, chúng ta dùng cấu trúc chương trình như sau
